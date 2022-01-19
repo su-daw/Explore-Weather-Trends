@@ -22,3 +22,7 @@ The goal of this project is to visualize and create a write up that explains the
 - Pandas
 - Numpy
 - Seaborn
+
+## Resources
+https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.rolling.html
+https://seaborn.pydata.org/generated/seaborn.lineplot.html
